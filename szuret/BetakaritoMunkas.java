@@ -1,8 +1,9 @@
 interface BetakaritoMunkas{
-  BetakaritoMunkas osszehasonlit(BetakaritoMunkas bm); //ez egy függvény, ami egy BetakaritoMunkas típusú értéket ad vissza
+  BetakaritoMunkas osszehasonlit(BetakaritoMunkas bm); //ez egy fï¿½ggvï¿½ny, ami egy BetakaritoMunkas tï¿½pusï¿½ ï¿½rtï¿½ket ad vissza
   void setParja(BetakaritoMunkas bm);
-  void parbaAllit(BetakaritoMunkas bm); //ez pedig egy eljárás, amely az adott munkás párjaként meghatározza a paraméterként megadottat
+  void parbaAllit(BetakaritoMunkas bm); //ez pedig egy eljï¿½rï¿½s, amely az adott munkï¿½s pï¿½rjakï¿½nt meghatï¿½rozza a paramï¿½terkï¿½nt megadottat
   String getNev();
   int getOradij();
   int getSebesseg();
+  BetakaritoMunkas getParja();
 }

@@ -21,12 +21,19 @@ class SzoloSzureteloMunkas implements BetakaritoMunkas{
     }
   }
   public void setParja(BetakaritoMunkas bm){
+
+    if(!bm.getParja().equals(null)){
+
+      bm.getParja().setParja(null);
+      this.setParja(bm);
+    }
+
     this.parja=bm;
   }
 
   public void parbaAllit(BetakaritoMunkas bm){
     
-    if(!this.equals(bm) && getParja() == null){
+    if(!this.equals(bm)){  //megoldani, hogy lehessen új párt állítani lsd(??) jegyzet, van-e párja annak amit új párnak akarok állítani, azt rendezni ötlet:<- ennek 2 paraméter
 
       this.setParja(bm);
     
