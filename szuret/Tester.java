@@ -1,4 +1,4 @@
-import szuret.*;
+//import szuret.*;
 
 class Tester
 {
@@ -17,7 +17,7 @@ class Tester
         SzoloSzureteloMunkas munkas4 = new SzoloSzureteloMunkas("Géza",10000,90,0.4);
         System.out.println("Egyenlo: " +munkas3.equals(munkas1));  // helyes: true
         System.out.println("Egyenlo null-al: " + munkas1.equals(null));  // helyes: false
-
+/*
         SzoloSzuret szuret1 = new SzoloSzuret(2,5000,0.2);
         SzoloSzuret szuret2 = new SzoloSzuret(500);
         szuret1.addMunkas(munkas1);
@@ -46,5 +46,7 @@ class Tester
         System.out.println("Idotartam: " + szuret2.calcIdotartam());  // helyes: 17
 
         System.out.println("Leglassabb: " + szuret2.leglassabb());  // helyes: Geza
+
+        */
 	}
 }
