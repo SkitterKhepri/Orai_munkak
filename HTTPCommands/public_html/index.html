@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this template
+-->
+<html>
+    <head>
+        <title>HTTP Commands</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="functions.js"></script>
+        <style>
+            table{
+                width:75%;
+                margin-left: auto;
+                margin-right: auto;
+                border-collapse: collapse;
+            }
+            td,th{
+                border: blue 1px solid;
+            }
+            div#adatok{
+                margin-top: 2em;
+            }
+            .hiba{
+                display: inline;
+                color: red;
+                font-weight: bold;
+            }
+            a{
+                cursor: pointer;
+                color: blue;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <!--<form method="post" action="" >
+                adat: <input type="text" name="adat" />
+                <input type="submit" value="Küldés" name="send" onclick="kuldes();" />
+            </form>-->
+            
+            <form>
+                <label for="id">ID: </label>
+                <input type="text" name="id" /><div class="hiba"></div>
+                <input type="submit" onclick="letoltes();" value="Letöltés" />
+            </form>                
+        </div>
+        <div id="adatok">
+            <table>
+                <tr>
+                    <th>UserId</th>
+                    <th>id</th>
+                    <th>title</th>
+                    <th>body</th>
+                    <th>Művelet<th>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
