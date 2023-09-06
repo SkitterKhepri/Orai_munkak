@@ -1,0 +1,7 @@
+C:\Users\Diak\Desktop\idegen\Orai_munkak\autok2\autok2\bin\Debug\autok2.exe.config
+C:\Users\Diak\Desktop\idegen\Orai_munkak\autok2\autok2\bin\Debug\autok2.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\autok2\autok2\bin\Debug\autok2.pdb
+C:\Users\Diak\Desktop\idegen\Orai_munkak\autok2\autok2\obj\Debug\autok2.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\autok2\autok2\obj\Debug\autok2.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\autok2\autok2\obj\Debug\autok2.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\autok2\autok2\obj\Debug\autok2.pdb
