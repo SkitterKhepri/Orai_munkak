@@ -86,21 +86,75 @@ namespace adatfeldolg1
         static void Main(string[] args)
         {
 
-            List<Zene> z = new List<Zene> ();
+            List<Zene> zenek = new List<Zene>();
 
             StreamReader reader = new StreamReader("zenek.txt");
 
             while (!reader.EndOfStream)
             {
 
-                Zene zenecske = new Zene (reader.ReadLine());
-                z.Add(zenecske);
+                Zene z = new Zene(reader.ReadLine());
+                zenek.Add(z);
 
             }
 
-            Console.ReadKey();
+            
             reader.Close();
 
+            /*
+            foreach (Zene korte in z)
+            {
+                //Console.WriteLine(korte.ado);
+            }
+            */
+
+            var linq1 = from zene in zenek
+                        select new
+                        {
+                            Ado = zene.Ado,
+                            Perc = zene.Perc,
+                            Masodperc = zene.Masodperc
+                        };
+
+
+
+            foreach (var z in linq1)
+            {
+                Console.WriteLine($"{z.Ado}. rádióadó: {z.Perc, 2:00}.{z.Masodperc, -2:00}");
+            }
+
+            int[] a = { 1, 2, 4, 7 };
+            int[] b = { 1, 3, 5, 6, 7 };
+
+            //Console.WriteLine(a.Union(b));
+
+            Console.Write("{");
+
+            foreach (var elem in a.Union(b).OrderBy(x => x*-1))
+            {
+                Console.Write(elem + " ");
+
+            }
+
+            Console.WriteLine("}");
+
+            var linq2 = from adat in linq1
+                        group adat by adat.Ado
+                        into csoport
+                        select new
+                        {
+                            Ado = csoport.Key,
+                            Ora = csoport.Sum(sor => sor.Perc) / 60,
+                            Perc = (csoport.Sum(sor => sor.Masodperc) / 60 + csoport.Sum(sor => sor.Perc)) % 60,
+                            Masodperc = (csoport.Sum(sor => sor.Masodperc) + csoport.Sum(sor => sor.Masodperc)) % 60
+                        };
+
+
+
+            foreach (var adat in linq2.OrderByDescending(w => DateTime.Parse(w.Ora + ":" + w.Perc + ":" + w.Masodperc)))
+            {
+                Console.WriteLine($"{adat.Ado}. rádióadó: {adat.Ora, 2:00}:{adat.Perc, 2:00}:{adat.Masodperc, 2:00}");
+            }
 
         }
     }
