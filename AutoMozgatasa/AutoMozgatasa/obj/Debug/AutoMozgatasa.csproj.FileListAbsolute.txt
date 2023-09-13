@@ -1,0 +1,7 @@
+C:\Users\Tanar\source\repos\AutoMozgatasa\AutoMozgatasa\bin\Debug\AutoMozgatasa.exe.config
+C:\Users\Tanar\source\repos\AutoMozgatasa\AutoMozgatasa\bin\Debug\AutoMozgatasa.exe
+C:\Users\Tanar\source\repos\AutoMozgatasa\AutoMozgatasa\bin\Debug\AutoMozgatasa.pdb
+C:\Users\Tanar\source\repos\AutoMozgatasa\AutoMozgatasa\obj\Debug\AutoMozgatasa.csproj.AssemblyReference.cache
+C:\Users\Tanar\source\repos\AutoMozgatasa\AutoMozgatasa\obj\Debug\AutoMozgatasa.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\AutoMozgatasa\AutoMozgatasa\obj\Debug\AutoMozgatasa.exe
+C:\Users\Tanar\source\repos\AutoMozgatasa\AutoMozgatasa\obj\Debug\AutoMozgatasa.pdb

@@ -1,0 +1,7 @@
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatfeldolg1\adatfeldolg1\bin\Debug\adatfeldolg1.exe.config
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatfeldolg1\adatfeldolg1\bin\Debug\adatfeldolg1.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatfeldolg1\adatfeldolg1\bin\Debug\adatfeldolg1.pdb
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatfeldolg1\adatfeldolg1\obj\Debug\adatfeldolg1.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatfeldolg1\adatfeldolg1\obj\Debug\adatfeldolg1.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatfeldolg1\adatfeldolg1\obj\Debug\adatfeldolg1.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatfeldolg1\adatfeldolg1\obj\Debug\adatfeldolg1.pdb
