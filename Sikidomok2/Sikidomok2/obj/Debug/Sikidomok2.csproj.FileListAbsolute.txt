@@ -1,0 +1,10 @@
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\bin\Debug\Sikidomok2.exe.config
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\bin\Debug\Sikidomok2.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\bin\Debug\Sikidomok2.pdb
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.Form1.resources
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.Properties.Resources.resources
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.csproj.GenerateResource.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.pdb

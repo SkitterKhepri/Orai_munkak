@@ -1,0 +1,12 @@
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\obj\Debug\Adatbazis2.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\obj\Debug\Adatbazis2.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\bin\Debug\MSSQLDatabase.mdf
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\bin\Debug\MSSQLDatabase_log.ldf
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\bin\Debug\Adatbazis2.exe.config
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\bin\Debug\Adatbazis2.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\bin\Debug\Adatbazis2.pdb
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\bin\Debug\MySql.Data.dll
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\obj\Debug\Adatbazis2.csproj.CopyComplete
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\obj\Debug\Adatbazis2.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Adatbazis2\Adatbazis2\obj\Debug\Adatbazis2.pdb

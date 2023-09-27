@@ -1,0 +1,13 @@
+Adatbázis(sql-ben valszeg)
+	-adatbázis felépítése(milyen táblázatok, milyen fajta adatok vannak bennük, a táblázatok hogyan kapcsolódnak, ilyesmi)
+	-lekérdezések(adatok lekérése, adatok bevite/frissítése az adatbázisban)
+		->egy lekérdezés a regisztráláshoz( valami olyasmi, hogy elmenti egy táblázatba a felhasználónevet meg jeszót)
+		->egy a jelszómódosításhoz											 \
+		->egy ha adminként ki akarunk törölni egy felhasználót								  \ 
+		->egy ha a felhasználó ki akarja törölni magát									   > ezek jutottak eszembe, valszeg még kell majd pár ezeken kívűl
+		->néhány a különböző keresésekre(pl külön egy ha rendezőre keres, külön ha filmcímre, stb, amennyi ilyet akarunk) /
+		->és még egy az adatbázisba új adatok hozzáadására(mondjuk mikor az IMDB adatbázisa is frissül)			 /
+
+Honlap
+	-különböző oldalak megcsinálása(kinézet (<-html-ben nagyrészt, kicsit css-ben), funkciók(<- 1-2 függvény, amik kapcsolódnak az adatbázishoz meg ilyesmi, valszeg JavaScript-ben))
+		->főoldal ->biztos le kell tudnia tölteni az imdb adatbázist, és beleraknia a miénkbe az új adatokat ha vannak. 

@@ -1,0 +1,9 @@
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\bin\Debug\Database1.mdf
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\bin\Debug\Database1_log.ldf
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\bin\Debug\adatbazis1.exe.config
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\bin\Debug\adatbazis1.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\bin\Debug\adatbazis1.pdb
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\obj\Debug\adatbazis1.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\obj\Debug\adatbazis1.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\obj\Debug\adatbazis1.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\adatbazis1\adatbazis1\obj\Debug\adatbazis1.pdb
