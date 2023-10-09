@@ -1,0 +1,9 @@
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\bin\Debug\robotos.exe.config
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\bin\Debug\robotos.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\bin\Debug\robotos.pdb
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\obj\Debug\robotos.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\obj\Debug\robotos.Properties.Resources.resources
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\obj\Debug\robotos.csproj.GenerateResource.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\obj\Debug\robotos.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\obj\Debug\robotos.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\robotos\robotos\obj\Debug\robotos.pdb

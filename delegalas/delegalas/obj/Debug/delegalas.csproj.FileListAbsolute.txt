@@ -1,0 +1,7 @@
+C:\Users\Diak\Desktop\idegen\Orai_munkak\delegalas\delegalas\obj\Debug\delegalas.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\delegalas\delegalas\obj\Debug\delegalas.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\delegalas\delegalas\bin\Debug\delegalas.exe.config
+C:\Users\Diak\Desktop\idegen\Orai_munkak\delegalas\delegalas\bin\Debug\delegalas.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\delegalas\delegalas\bin\Debug\delegalas.pdb
+C:\Users\Diak\Desktop\idegen\Orai_munkak\delegalas\delegalas\obj\Debug\delegalas.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\delegalas\delegalas\obj\Debug\delegalas.pdb
