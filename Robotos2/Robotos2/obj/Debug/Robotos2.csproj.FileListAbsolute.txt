@@ -1,0 +1,10 @@
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\bin\Debug\Robotos2.exe.config
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\bin\Debug\Robotos2.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\bin\Debug\Robotos2.pdb
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\obj\Debug\Robotos2.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\obj\Debug\Robotos2.Form1.resources
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\obj\Debug\Robotos2.Properties.Resources.resources
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\obj\Debug\Robotos2.csproj.GenerateResource.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\obj\Debug\Robotos2.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\obj\Debug\Robotos2.exe
+C:\Users\Diak\Desktop\idegen\Orai_munkak\Robotos2\Robotos2\obj\Debug\Robotos2.pdb

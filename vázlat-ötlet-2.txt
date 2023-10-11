@@ -4,9 +4,10 @@
 
 2. Honlap
 	-Főoldal
-		->ezeken belül dolgok, még lehet jobban lebontani talán, ha karjuk, hogy mondjuk kell egy ilyen függvény, vagy még egy menüsáv vagy ilyesmi, nem tudom kell-e
+		->ezeken belül dolgok, még lehet jobban lebontani talán, ha akarjuk, hogy mondjuk kell egy ilyen függvény, vagy még egy menüsáv vagy ilyesmi, nem tudom kell-e
 	-bejelentkezés
 	-kereső
 	-talán beállítások oldal (lehet elég lenne valami oldalsó menü. ugyan ez a keresőnél is)
 
 gond, hogy nem eredeti. az a chatgpt ír email-értesítéseket az nagyon király csak nemtom elég-e
+mondjuk egy idővonal, amin rajta lehetnének a követett filmek dátumai?
