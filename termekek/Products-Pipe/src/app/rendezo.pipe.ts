@@ -5,8 +5,16 @@ import { Pipe, PipeTransform } from '@angular/core';
 })
 export class RendezoPipe implements PipeTransform {
 
-  transform(value: unknown, ...args: unknown[]): unknown {
-    return null;
+  transform(termekek:any) {
+    if(!termekek) return null
+
+    termekek.sort(
+      (a:any, b:any)=>{
+        return a['name'].localeCompare(b['name'], 'hu', {sensitivity:'base'})
+      }
+    )
+    return termekek
+
   }
 
 }

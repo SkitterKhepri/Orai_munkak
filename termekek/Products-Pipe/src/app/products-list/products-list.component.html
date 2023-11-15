@@ -17,7 +17,7 @@
     </div>
 </div>
 
-<div *ngFor="let termek of termekek|kereso:szo" class="row">
+<div *ngFor="let termek of (termekek|kereso:szo)|rendezo" class="row">
     <div *ngFor="let oszlop of oszlopok" class="col-2">
         <ng-container *ngIf="oszlop.type=='plain'; else bevitel">
         {{termek[oszlop.key]}}
