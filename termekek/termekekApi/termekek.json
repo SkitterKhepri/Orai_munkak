@@ -121,10 +121,17 @@
     },
     {
       "name": "Zsák szén",
-      "price": "2000",
+      "price": 2000,
       "description": "jó minőségű fekete szar",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGB1FXoLFOW6R5KxO-2YW-I-F9_PSO-sNUNOsq8AddNQ&s",
       "id": 20
+    },
+    {
+      "name": "aaaa",
+      "price": 10,
+      "description": "snowdrop",
+      "image_url": "https://example.com/lamp.jpg",
+      "id": 21
     }
   ]
 }

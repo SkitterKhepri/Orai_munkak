@@ -1,0 +1,22 @@
+<div class="row mb-3">
+    <div class="col-6">
+        <div class="mb-3">
+            <input [(ngModel)]="newProduct.name" type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Price</label>
+            <input [(ngModel)]="newProduct.name" class="form-control" id="exampleFormControlTextarea1" rows="3">
+          </div>
+
+
+        <label for="formFile" class="form-label">Default file input example</label>
+        <input multiple (change)="selectFile($event)" class="form-control" type="file" id="formFile">
+        <button (click)="uploadFile()" [disabled]="!selectedFile" class="btn btn-primary my-3">Feltöltés</button>
+    </div>
+</div>
+
+<div *ngIf="upload" class="row">
+    <div class="progress">
+        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" [attr.aria-valuenow]="percentage" aria-valuemin="0" aria-valuemax="100" [ngStyle]="{'width':percentage + '%'}"></div>
+    </div>
+</div>

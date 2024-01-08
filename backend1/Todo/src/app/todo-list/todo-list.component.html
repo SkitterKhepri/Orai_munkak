@@ -1,0 +1,24 @@
+{{todoes|json}}
+
+<button (click)="postTodo()" class="btn btn-primary">Hozzáad</button>
+
+
+<div class="row">
+    <div class="col">Megnevezés</div>
+    <div class="col">Teljesítve</div>
+    <div class="col">Műveletek</div>
+</div>
+
+
+<div *ngFor="let todo of todoes" class="row my-5">
+    <div class="col">
+        <input [(ngModel)]="newTodo.name" type="text" class="form-control">
+    </div>
+    <div class="col">
+        <input [(ngModel)]="newTodo.isComplete" type="text" class="form-control">
+    </div>
+    <div class="col">
+        <div (click)="putTodo(todo)" class="btn btn-warning">Mentés</div>
+        <div (click)="delTodo(todo)" class="btn btn-danger">Törlés</div>
+    </div>
+</div>
