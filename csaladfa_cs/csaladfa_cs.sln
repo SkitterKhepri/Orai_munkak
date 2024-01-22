@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csaladfa_cs", "csaladfa_cs.csproj", "{AA4EE518-3BBC-4769-ABA9-941BAA9D446D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA4EE518-3BBC-4769-ABA9-941BAA9D446D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4EE518-3BBC-4769-ABA9-941BAA9D446D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4EE518-3BBC-4769-ABA9-941BAA9D446D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4EE518-3BBC-4769-ABA9-941BAA9D446D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7208660-85C5-483F-B4DC-AF7F5DD9B1EA}
+	EndGlobalSection
+EndGlobal
