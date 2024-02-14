@@ -10,7 +10,7 @@ namespace NoSQL
     {
 
         public List<Jarmu> Jarmuvek;
-        public Parkolas[] Parkolasok;
+        public List<Parkolas> Parkolasok;
 
     }
     public class Jarmu

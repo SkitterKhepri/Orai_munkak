@@ -1,0 +1,12 @@
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\Users\Diak\Desktop\idegen\Humans\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache

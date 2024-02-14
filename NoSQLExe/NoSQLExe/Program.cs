@@ -7,8 +7,9 @@ string json = "{}";
 Console.WriteLine(db.Post(json).JSON);
 
 AdatBazis ab = new AdatBazis();
+ab.Jarmuvek = new List<Jarmu>();
 Jarmu j = new Jarmu();
 j.Rendszam = "ABC-001";
 ab.Jarmuvek.Add(j);
 
-System.Net.Http.Json.
+Console.WriteLine(System.Text.Json.JsonSerializer.Serialize(ab));

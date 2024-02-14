@@ -1,0 +1,66 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Chat
+    </ion-title>
+  </ion-toolbar>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Chat</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <div class="container" id=" container">
+    <!-- {{messages|json}} -->
+    <div *ngFor="let message of messages" class="row" [ngClass]="message.userName == userName? 'd-flex justify-content-end':''">
+      <div class="col-6">
+        <div>
+          {{message.userName}}
+        </div>
+        <ng-container *ngIf="message.userName == userName; else nemen">
+          <ion-textarea class="form-control" [(ngModel)]="message.text" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></ion-textarea>
+        <ion-row>
+          <ion-col size="6">
+            <ion-button (click)="saveMessage(message)" expand="block" size="small">Save</ion-button>
+          </ion-col>
+          <ion-col size="6">
+            <ion-button (click)="deleteMessage(message)" expand="block" size="small">Delete</ion-button>
+          </ion-col>
+        </ion-row>
+        </ng-container>
+        <ng-template #nemen>
+          {{message.text}}
+        </ng-template>
+        <div class="d-flex justify-content-end">
+          {{message.time}}
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</ion-content>
+
+
+
+
+<ion-footer>
+  <ion-toolbar>
+    <ion-grid>
+      <ion-row>
+        <ion-col size="9">
+          <div class="form-floating">
+            <ion-textarea class="form-control" [(ngModel)]="newMessage" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></ion-textarea>
+          </div>
+        </ion-col>
+        <ion-col size="3">
+        <ion-button (click)="addMessage()" expand="full">Send</ion-button> 
+      </ion-col>
+      </ion-row>
+    </ion-grid>
+
+  </ion-toolbar>
+</ion-footer>

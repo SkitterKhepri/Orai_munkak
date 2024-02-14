@@ -1,0 +1,6 @@
+C:\Users\Diak\Desktop\idegen\Humans\GyakClassLibrary\bin\Debug\GyakClassLibrary.dll
+C:\Users\Diak\Desktop\idegen\Humans\GyakClassLibrary\bin\Debug\GyakClassLibrary.pdb
+C:\Users\Diak\Desktop\idegen\Humans\GyakClassLibrary\obj\Debug\GyakClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\idegen\Humans\GyakClassLibrary\obj\Debug\GyakClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\idegen\Humans\GyakClassLibrary\obj\Debug\GyakClassLibrary.dll
+C:\Users\Diak\Desktop\idegen\Humans\GyakClassLibrary\obj\Debug\GyakClassLibrary.pdb
